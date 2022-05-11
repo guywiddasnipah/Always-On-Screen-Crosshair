@@ -24,7 +24,7 @@ A custom crosshair as usual can be applied in [Settings > Mods](https://kirka.io
 
 ## [FEEDBACK]
 
-For all feedbacks and queries about this CSS file, please reach out to us at Discord 
+For all feedbacks and queries about this CSS file, please reach out to us at Discord: 
 
 - Biscuit#5113
 
